@@ -4,7 +4,7 @@ This is a simple scraping utiltiy that makes a folder for a given LeetCode probl
 
 ## Installation
 
-Before proceeding, ensure you have `python3` installed in your system.
+Before proceeding, ensure you have `python3` (run `python3 --version` to check) installed in your system.
 
 1. Clone this repository into your LeetCode directory (e.g. `/home/<username>/leetcode/`):
 
