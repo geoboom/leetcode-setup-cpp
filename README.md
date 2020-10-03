@@ -16,7 +16,7 @@ to
 ext=<your file extension> # e.g. ext=py for python
 ```
 
-Your template file should be named `template.<your file extension>` e.g. `template.py` for `python`.
+You should have a template file in the folder where you cloned the repository. Your template file should be named `template.<your file extension>` e.g. `template.py` for `python`.
 
 ## Installation
 
