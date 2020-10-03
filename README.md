@@ -1,6 +1,6 @@
 # LeetCode Problem Setup (C++)
 
-This is a simple scraping utiltiy that makes a folder for a given LeetCode problem url and copies your C++ `template.cpp` into it, and renames it to `solve.cpp` within the folder. If you don't like my `template.cpp`, feel free to change it to suit your liking. Also, PRs to improve my naive bash scripting, scraping code, or anything else are welcome :smile:!
+This is a simple scraping utiltiy that makes a folder for a given LeetCode problem url (with the problem number), copies your C++ `template.cpp` into it, and renames it to `solve.cpp` within the folder. If you don't like my `template.cpp`, feel free to change it to suit your liking. Also, PRs to improve my naive bash scripting, scraping code, or anything else are welcome :smile:!
 
 ## Using other languages
 
