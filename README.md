@@ -1,6 +1,6 @@
 # LeetCode Problem Setup (C++)
 
-This is a simple scraping utiltiy that makes a folder for a given LeetCode problem url and copies your C++ `template.cpp` into it, and renames it to `solve.cpp` within the folder.
+This is a simple scraping utiltiy that makes a folder for a given LeetCode problem url and copies your C++ `template.cpp` into it, and renames it to `solve.cpp` within the folder. If you don't like my `template.cpp`, feel free to change it to suit your liking. Also, PRs to improve my naive bash scripting, scraping code, or anything else are welcome :smile:!
 
 ## Installation
 
@@ -12,7 +12,7 @@ Before proceeding, ensure you have `python3` installed in your system.
    git clone https://github.com/geoboom/leetcode-setup-cpp.git _setup
    ```
 
-   Here, I cloned it into `_setup/` subdirectory for convenience. You may change the target directory name from `_setup` to something else. If so, then adapt the rest of the instructions to use your target directory name instead of `_setup`.
+   Here, I cloned it into `_setup/` subdirectory for convenience. You may change the target directory name from `_setup` to something else. If you do so, then remember to adapt the rest of the instructions to use your target directory name instead of `_setup`.
 
 2. Install the required dependencies:
 
