@@ -2,6 +2,22 @@
 
 This is a simple scraping utiltiy that makes a folder for a given LeetCode problem url and copies your C++ `template.cpp` into it, and renames it to `solve.cpp` within the folder. If you don't like my `template.cpp`, feel free to change it to suit your liking. Also, PRs to improve my naive bash scripting, scraping code, or anything else are welcome :smile:!
 
+## Using other languages
+
+If you wish to use another language like `python` or `java`, you can edit `get.sh` and change
+
+```bash
+ext=cpp
+```
+
+to
+
+```bash
+ext=<your file extension> # e.g. ext=py for python
+```
+
+Your template file should be named `template.<your file extension>` e.g. `template.py` for `python`.
+
 ## Installation
 
 Before proceeding, ensure you have `python3` (run `python3 --version` to check) installed in your system.
