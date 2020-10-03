@@ -17,12 +17,12 @@ Before proceeding, ensure you have `python3` installed in your system.
 2. Install the required dependencies:
 
    ```bash
-   cd _setup                        # go into the project folder
+   cd _setup/scraper                # go into the scraper folder
    python3 -m venv venv             # set up the python3 virtual environment
    source venv/bin/activate         # activate the virtual environment
    pip install -r requirements.txt  # install dependencies specified in requirements.txt
    deactivate                       # deactivate the virtual environment
-   cd ..                            # leave the project folder
+   cd ../..                         # leave the project folder
    ```
 
 3. (Optional) Edit `_setup/template.cpp` to your liking.
