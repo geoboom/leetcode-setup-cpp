@@ -12,7 +12,7 @@ Before proceeding, ensure you have `python3` installed in your system.
    git clone https://github.com/geoboom/leetcode-setup-cpp.git _setup
    ```
 
-   Here, I cloned it into `_setup/` subdirectory for convenience.
+   Here, I cloned it into `_setup/` subdirectory for convenience. You may change the target directory name from `_setup` to something else. If so, then adapt the rest of the instructions to use your target directory name instead of `_setup`.
 
 2. Install the required dependencies:
 
