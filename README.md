@@ -62,3 +62,7 @@ The following assume that you're in your LeetCode problems directory and the rep
 Creates `560-subarray-sum-equals-k/` and `560-subarray-sum-equals-k/solve.cpp` in `/home/<username>/leetcode/`.
 
 **Note:** if `560-subarray-sum-equals-k/solve.cpp` already exists, then the program will not do anything.
+
+## Other Notes
+
+I might consider adding some functionality like extracting the function from the code given in the problem and including it in the `solve.cpp`.
